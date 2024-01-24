@@ -13,7 +13,10 @@
 6.6 Summary
 
 In this chapter, four testbeds (GFM1, GFM2, GM3, and VSM) are shown in Figs 6.2, 6.6, 6.9, 6.11.
-The foler contains these four testbeds. 
+The foler contains one testbed that can be quickly turn into four testbeds.
+
+testbed_overall.slx is the simscape model built in MATLAB 2022a.
+GFM_initial.m is the data file assigning parameters to the testbed. 
 
 Fan, L., & Miao, Z. (2023). Modeling and Stability Analysis of Inverter-Based Resources. CRC Press.
 
